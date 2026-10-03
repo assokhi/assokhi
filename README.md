@@ -1,96 +1,52 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:8b5cf6&height=200&section=header&text=Arvinder%20Sokhi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Next.js%20%C2%B7%20Java%2FSpring%20%C2%B7%20AI&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,100:8b5cf6&height=4&section=header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+with+Next.js+%26+React;Backend+in+Java+%2F+Spring;Shipping+AI-powered+products" alt="Typing SVG" />
+<h1>Arvinder Sokhi</h1>
+<p><i>Student of software, exploring open source.</i></p>
 
-<br />
+<a href="https://github.com/assokhi"><img src="https://img.shields.io/badge/GitHub-24292f?style=flat&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/assokhi"><img src="https://img.shields.io/badge/LinkedIn-24292f?style=flat&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="mailto:singhsokhiarvinder@gmail.com"><img src="https://img.shields.io/badge/Email-24292f?style=flat&logo=gmail&logoColor=EA4335" /></a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/assokhi/assokhi)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/assokhi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/assokhi)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhsokhiarvinder@gmail.com)
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,100:8b5cf6&height=2&section=header" width="100%" />
 </div>
 
-<br />
+### Open Source
+<a href="https://maven.apache.org"><img src="https://img.shields.io/badge/Apache_Maven-D22128?style=flat&logo=apache&logoColor=white" /></a> <img src="https://img.shields.io/badge/CLI-334155?style=flat" /> <img src="https://img.shields.io/badge/Time_Zone_Config-334155?style=flat" /> <img src="https://img.shields.io/badge/Tests-334155?style=flat" />
+<br/>
+<a href="https://seatunnel.apache.org"><img src="https://img.shields.io/badge/Apache_SeaTunnel-D22128?style=flat&logo=apache&logoColor=white" /></a> <img src="https://img.shields.io/badge/MQTT_Connector-334155?style=flat" /> <img src="https://img.shields.io/badge/IoT-334155?style=flat" /> <img src="https://img.shields.io/badge/Reliability-334155?style=flat" />
 
-## About Me
+### Experience
+<img src="https://img.shields.io/badge/Scriptivox-6366f1?style=flat" /> <img src="https://img.shields.io/badge/AI_Agent-334155?style=flat" /> <img src="https://img.shields.io/badge/Sentiment_Analysis-334155?style=flat" /> <img src="https://img.shields.io/badge/Reddit-334155?style=flat" />
 
-- Building full-stack products with **Next.js / React** on the front and **Java / Spring** on the back
-- Exploring **AI-powered tooling** with the OpenAI API and LangChain
-- Comfortable across the stack — auth (JWT, OAuth, Auth0), databases, and CI/CD
-- Always shipping something — check out [my projects](https://github.com/assokhi?tab=repositories)
-- Reach me at **singhsokhiarvinder@gmail.com**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,100:8b5cf6&height=2&section=header" width="100%" />
 
-<br />
+### Selected Projects
+**RAG** <img src="https://img.shields.io/badge/Embeddings-334155?style=flat" /> <img src="https://img.shields.io/badge/Retrieval-334155?style=flat" /> <img src="https://img.shields.io/badge/LLM-334155?style=flat" />
+<br/>
+**AtalK** <img src="https://img.shields.io/badge/WebSockets-334155?style=flat" /> <img src="https://img.shields.io/badge/Encryption-334155?style=flat" /> <img src="https://img.shields.io/badge/Security-334155?style=flat" />
+<br/>
+**Kitten** <img src="https://img.shields.io/badge/Document_Parsing-334155?style=flat" /> <img src="https://img.shields.io/badge/Multi_Speaker_TTS-334155?style=flat" /> <img src="https://img.shields.io/badge/LLM-334155?style=flat" />
+<br/>
+**Pong** <img src="https://img.shields.io/badge/Multiplayer-334155?style=flat" /> <img src="https://img.shields.io/badge/Netcode-334155?style=flat" /> <img src="https://img.shields.io/badge/Real_Time-334155?style=flat" />
+<br/>
+**Instai** <img src="https://img.shields.io/badge/Async_Jobs-334155?style=flat" /> <img src="https://img.shields.io/badge/URL_Validation-334155?style=flat" /> <img src="https://img.shields.io/badge/Media_Processing-334155?style=flat" />
+<br/>
+<a href="https://github.com/assokhi?tab=repositories"><img src="https://img.shields.io/badge/View_all_repositories-8b5cf6?style=flat&logo=github&logoColor=white" /></a>
 
-## Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,100:8b5cf6&height=2&section=header" width="100%" />
+
+### Stack
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-20232a?style=flat&logo=typescript&logoColor=3178C6" /> <img src="https://img.shields.io/badge/Java-20232a?style=flat&logo=openjdk&logoColor=437291" /> <img src="https://img.shields.io/badge/Spring-20232a?style=flat&logo=springboot&logoColor=6DB33F" /> <img src="https://img.shields.io/badge/Python-20232a?style=flat&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/PostgreSQL-20232a?style=flat&logo=postgresql&logoColor=4169E1" /> <img src="https://img.shields.io/badge/MongoDB-20232a?style=flat&logo=mongodb&logoColor=47A248" /> <img src="https://img.shields.io/badge/Redis-20232a?style=flat&logo=redis&logoColor=DC382D" /> <img src="https://img.shields.io/badge/Docker-20232a?style=flat&logo=docker&logoColor=2496ED" /> <img src="https://img.shields.io/badge/Cloudflare_Workers-20232a?style=flat&logo=cloudflareworkers&logoColor=F38020" /> <img src="https://img.shields.io/badge/LangChain-20232a?style=flat&logo=langchain&logoColor=1C3C3C" /> <img src="https://img.shields.io/badge/OpenAI_API-20232a?style=flat&logo=openai&logoColor=white" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,100:8b5cf6&height=2&section=header" width="100%" />
+
+### Elsewhere
+<a href="https://leetcode.com/Arvinder_Singh_Sokhi"><img src="https://img.shields.io/badge/LeetCode-20232a?style=flat&logo=leetcode&logoColor=FFA116" /></a> <a href="https://codeforces.com/profile/ArvinderSinghSokhi"><img src="https://img.shields.io/badge/Codeforces-20232a?style=flat&logo=codeforces&logoColor=1F8ACB" /></a> <img src="https://img.shields.io/badge/Deep_Learning_Specialization-0f766e?style=flat" /> <img src="https://img.shields.io/badge/Machine_Learning_Specialization-0f766e?style=flat" />
 
 <div align="center">
 
-**Frontend**
-<br />
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Backend**
-<br />
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Auth & Data**
-<br />
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**CI/CD & AI**
-<br />
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-</div>
-
-<br />
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=assokhi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=assokhi&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
-
-<img src="https://streak-stats.demolab.com/?user=assokhi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
-<br />
-
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=assokhi&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=assokhi&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:38bdf8&height=100&section=footer" width="100%" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=assokhi&show_icons=true&theme=default&hide_border=true&hide_title=true&include_all_commits=true" width="420" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b5cf6,100:38bdf8&height=4&section=footer" width="100%" />
 </div>
