@@ -39,20 +39,3 @@ pre,
 samp {
 	font-family: var(--font-mono);
 }
-
-/* Markdown posts (/blog/[slug]); the HTML comes from marked, so no utility classes. */
-.post { @apply text-lg leading-relaxed text-slate-700 dark:text-night-300; }
-.post > * + * { @apply mt-5; }
-.post h2 { @apply mt-12 text-2xl font-bold text-slate-950 dark:text-night-100; }
-.post h3 { @apply mt-8 text-xl font-bold text-slate-950 dark:text-night-100; }
-.post a { @apply text-blue-600 underline underline-offset-4 dark:text-blue-400; }
-.post strong { @apply font-semibold text-slate-950 dark:text-night-100; }
-.post ul { @apply list-disc pl-6; }
-.post ol { @apply list-decimal pl-6; }
-.post li + li { @apply mt-2; }
-.post blockquote { @apply border-l-4 border-slate-300 pl-4 italic dark:border-night-800; }
-.post :not(pre) > code { @apply rounded bg-slate-100 px-1.5 py-0.5 text-[0.9em] dark:bg-night-800; }
-.post pre { @apply overflow-x-auto rounded-lg bg-slate-950 p-4 text-sm leading-normal text-slate-100 dark:bg-night-900; }
-.post table { @apply block w-full overflow-x-auto text-base; }
-.post th, .post td { @apply border border-slate-900/10 px-3 py-2 text-left dark:border-white/10; }
-.post img { @apply rounded-lg; }
